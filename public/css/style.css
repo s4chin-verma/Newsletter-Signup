@@ -1,0 +1,25 @@
+
+
+h4,h2,h5{
+    text-align: center;
+}
+.div-1{
+    margin-top: 9rem;
+}
+.logo-img{
+    width: 50px;
+    display: block;
+    margin:auto auto 1rem;
+}
+.butn{
+    margin-top: 1rem auto;
+    display: block;
+    width: 17rem;
+}
+.check-bx{
+    margin: 0.7rem 0 1rem;
+}
+.goback{
+    margin: 1.5rem ;
+    width: 90%;
+}
