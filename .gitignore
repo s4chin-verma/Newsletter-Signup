@@ -1,4 +1,22 @@
-# .gitignore
-.env
+# Node.js
+node_modules/
+
+# Dependency lock file
 package-lock.json
-node_modules
+
+# Environment variable file
+.env
+
+# Logs
+logs/
+*.log
+
+# Ignore local configuration
+config/local.js
+
+# Editor-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
